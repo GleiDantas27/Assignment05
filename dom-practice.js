@@ -3,11 +3,12 @@
 
 //STEP 1
 
-
+/*
 function onclick_alert() {
     "use strict";
     window.alert("I have been clicked");
 }
+*/
 //STEP 2
 
 
